@@ -16,7 +16,7 @@
 {
     Send("{LAlt Down}n{LAlt Up}rf")
     Sleep (500)
-    Send("{Up}{Up}{Up}{Up}{Up}{Up}{Up}{Down}{Down}{Down}{Down}{Down}{Down}{Down}{Enter}")
+    Send("{Up}{Up}{Up}{Up}{Up}{Up}{Up}{Up}{Down}{Down}{Down}{Down}{Down}{Down}{Down}{Down}{Enter}")
     Send ("{Tab}")
     Send("{Up}{Up}{Up}{Up}{Up}{Up}{Down}{Enter}")
     Send("{Tab}{Down}")
@@ -26,7 +26,7 @@
 {
     Send("{LAlt Down}n{LAlt Up}rf")
     Sleep (500)
-    Send("{Up}{Up}{Up}{Up}{Up}{Up}{Up}{Down}{Down}{Down}{Down}{Down}{Enter}")
+    Send("{Up}{Up}{Up}{Up}{Up}{Up}{Up}{Up}{Down}{Down}{Down}{Down}{Down}{Down}{Enter}")
     Send ("{Tab}")
     Send("{Up}{Up}{Up}{Up}{Up}{Up}{Down}{Enter}")
     Send("{Tab}{Down}")
